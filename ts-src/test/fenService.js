@@ -3,7 +3,7 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
-// cd smartcontract-deployer
+// cd fenservice-deployer
 // npx hardhat test
 
 let contract;
